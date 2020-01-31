@@ -1,0 +1,24 @@
+﻿{
+  "Cooloff": 2000,
+  "CameraBindings": [
+    {
+      "CameraID": "e325c54bb232b678074ed1c9b7e949295271848c4e45effef8b5e7963f5995ad",
+      "Bindings": [
+        {
+          "Direction": "Right",
+          "Actions": {
+            "On": [ "0x0000000010f64b7e", "0x0000000010f64f57" ],
+            "Off": [ "0x00000000129d5ca5" ]
+          }
+        },
+        {
+          "Direction": "Left",
+          "Actions": {
+            "On": [ "0x00000000129d5ca5" ],
+            "Off": [ "0x0000000010f64b7e", "0x0000000010f64f57" ]
+          }
+        }
+      ]
+    }
+  ]
+}
